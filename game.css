@@ -425,13 +425,20 @@ img {
   transform: translateY(0);
   box-shadow: 0 10px 10px rgba(0, 0, 0, 15);
 }
-@media (max-width: 480px) {
-  .click{ 
-    font-size:15px;
-    margin: 10px;
-    
-  }
-}
+
+@media (max-width: 480px) {
+
+  .click{ 
+
+    font-size:15px;
+
+    margin: 10px;
+
+    
+
+  }
+
+}
 
 
 
@@ -524,7 +531,7 @@ footer .mo ul li.button a {
   font-size: 250%;
   text-align: center;
   font-weight: bold;
-  background-image: url(gta.png);
+  background-image: url(red.jpg);
   background-size: contain;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -771,4 +778,5 @@ footer .mo ul li.button a {
 .social-icons li:hover {
   background-color: #0d6efd;
   transform: scale(1.1);
+
 }
